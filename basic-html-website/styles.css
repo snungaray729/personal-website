@@ -1,0 +1,42 @@
+/* Entire page */
+* {
+    background-color: lightblue;
+}
+
+/* Navigation Bar */
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #0011ff;
+}
+
+ul li {
+    float: left;
+}
+
+ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    background-color: #0011ff; 
+}
+
+ul li a:hover {
+    background-color: #00aeff;
+}
+
+#header {
+    text-align: center;
+    border-style: solid;
+    margin: auto;
+}
+
+#profile-picture {
+    text-align: center;
+    font-weight: bold;
+    font-size: 29px;
+}
