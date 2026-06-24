@@ -38,6 +38,13 @@ ul li a:hover {
     background-color: #00aeff;
 }
 
+.circle-list {
+    list-style-type: square;
+    background-color: #ffffff;
+    overflow: visible;
+    margin: 15px;
+}
+
 /* Setting up a 2-column page */
 .content-row {
     display: flex;
